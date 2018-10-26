@@ -1,0 +1,11 @@
+body{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.background{
+	background-image: url("images/water.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 50px;
+	height: 675px;
+	width: 100%;
+}
