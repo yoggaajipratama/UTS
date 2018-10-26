@@ -2,10 +2,14 @@ body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .background{
-	background-image: url("images/water.jpg");
+	background-image: url("images/laptop.jpg");
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
-	height: 675px;
+	height: 590px;
 	width: 100%;
+}
+.navbarhtml{
+	margin-top: -30px;
+	color: black;
 }

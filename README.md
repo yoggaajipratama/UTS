@@ -1,3 +1,4 @@
 # UTS
 
-1. Yogga Aji Pratama menambah link bootstrap+wallpaper dengan style css line 6-13
+1. Yogga Aji Pratama menambahkan bootstrap & memberikan background dengan style css
+2. Yogga Aji Pratama menambahkan navbar pada web
