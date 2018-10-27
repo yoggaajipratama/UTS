@@ -7,3 +7,4 @@
 5. Yogga Aji Pratama menambahkan jQuery
 6. Yogga Aji Pratama menambahkan Script jQuery tambahan
 7. Yogga Aji Pratama menambahkan Script Slide show HTML
+8. Yogga Aji Pratama menambahkan Script Slide show CSS
