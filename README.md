@@ -5,3 +5,4 @@
 3. Yogga Aji Pratama menambahkan judul konten dan css
 4. Aldo Octaviandry mengubah navbar pada web
 5. Yogga Aji Pratama menambahkan jQuery
+5. Yogga Aji Pratama menambahkan Script jQuery tambahan
