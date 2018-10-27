@@ -1,6 +1,12 @@
+*{
+	margin:0;
+	padding:0;
+}
+
 body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
 .background{
 	background-image: url("images/laptop.jpg");
 	background-attachment: fixed;
@@ -9,10 +15,12 @@ body{
 	height: 590px;
 	width: 100%;
 }
+
 .navbarhtml{
 	margin-top: -30px;
 	color: black;
 }
+
 .judul{
 	border: solid black;
 	width: 55%;
