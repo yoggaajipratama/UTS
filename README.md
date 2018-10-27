@@ -8,3 +8,4 @@
 6. Yogga Aji Pratama menambahkan Script jQuery tambahan
 7. Yogga Aji Pratama menambahkan Script Slide show HTML
 8. Yogga Aji Pratama menambahkan Script Slide show CSS
+9. Yogga Aji Pratama menambahkan Script HTML untuk access jquery+image
