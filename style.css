@@ -8,7 +8,8 @@ body{
 }
 
 .background{
-	background-image: url("images/laptop.jpg");
+	/*background-image: url("images/laptop.jpg");*/
+	background-color: #ffbd37;
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
@@ -16,31 +17,44 @@ body{
 	width: 100%;
 }
 
-.navbarhtml{
-	margin-top: -30px;
+/*.navbarhtml{
+	margin-top: -50px;
 	color: black;
+}*/
+
+#navbarhtml{
+		background-color: green;
+		width: 100%;
+		top: 0;
+		padding-top: 9px;
+		padding-right: 40px;
+		position: fixed;
+		scroll-behavior: smooth;
+		overflow: hidden;
+		height: 70px;
+		text-align: right;
 }
 
 .judul{
+	background-color: #cece;
 	border: solid black;
 	width: 55%;
 	padding: auto;
 	margin: auto;
-	box-shadow: 3px 5px white;
+	box-shadow: 3px 5px black;
 	margin-top: 40px;
-	color: white;
+	color: black;
 	font-weight: bold;
-	text-shadow: 3px 5px black;
 }
 
 #container{
-	width:980px;
+	width:680px;
 	margin:40px auto;
 	overflow:hidden;
 }
 
 #slider{
-	width:940px;
+	width:680px;
 	height:350px;
 	position:relative;
 	overflow:hidden;
@@ -51,7 +65,7 @@ body{
 
 #slider img{
 	border-radius:30px;
-	width:940px;
+	width:680px;
 	height:350px;
 }
 
@@ -77,5 +91,5 @@ body{
 #next{
 	width: 42px;
 	height: 42px;
-	margin-left:-45px;
+	margin-left:-43px;
 }
