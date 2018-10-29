@@ -5,6 +5,7 @@
 
 body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	scroll-behavior: smooth;
 }
 
 .background{
@@ -23,16 +24,17 @@ body{
 }*/
 
 #navbarhtml{
-		background-color: black;
-		width: 100%;
-		top: 0;
-		padding-top: 9px;
-		padding-right: 40px;
-		position: fixed;
-		scroll-behavior: smooth;
-		overflow: hidden;
-		height: 70px;
-		text-align: right;
+	background-color: black;
+	width: 100%;
+	top: 0;
+	padding-top: 9px;
+	padding-right: 40px;
+	position: fixed;
+	scroll-behavior: smooth;
+	overflow: hidden;
+	height: 70px;
+	text-align: right;
+	z-index: 1;
 }
 
 .judul{
@@ -79,7 +81,6 @@ body{
 	margin-top:130px;
 	cursor:pointer;
 	position:relative;
-	z-index:100;
 }
 
 #prev{
@@ -94,8 +95,8 @@ body{
 	margin-left:-43px;
 }
 
-.about{
-	padding-top: 150px;
+#about{
+	padding-top: 350px;
 	padding-left: 800px;
 }
 
