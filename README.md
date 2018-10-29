@@ -11,3 +11,4 @@
 9. Yogga Aji Pratama menambahkan Script HTML untuk access jquery+image
 10. Yogga Aji Pratama menambahkan images dan script style css
 11. Yogga Aji Pratama menambahkan 2 page html
+12. Yogga Aji Pratama menambahkan script html dan css
