@@ -9,7 +9,7 @@ body{
 
 .background{
 	/*background-image: url("images/laptop.jpg");*/
-	background-color: #ffbd37;
+	background-color: #808080;
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
@@ -23,7 +23,7 @@ body{
 }*/
 
 #navbarhtml{
-		background-color: green;
+		background-color: black;
 		width: 100%;
 		top: 0;
 		padding-top: 9px;
@@ -36,14 +36,14 @@ body{
 }
 
 .judul{
-	background-color: #cece;
+	background-color: #808080;
 	border: solid black;
 	width: 55%;
 	padding: auto;
 	margin: auto;
 	box-shadow: 3px 5px black;
 	margin-top: 40px;
-	color: black;
+	color: white;
 	font-weight: bold;
 }
 
@@ -92,4 +92,20 @@ body{
 	width: 42px;
 	height: 42px;
 	margin-left:-43px;
+}
+
+.about{
+	padding-top: 150px;
+	padding-left: 800px;
+}
+
+.img{
+	width: 320px;
+	height: 320px;
+	border: solid;
+	border-radius: 50%;
+}
+
+.text{
+	margin-right: 30px;
 }
