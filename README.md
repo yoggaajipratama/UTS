@@ -14,4 +14,5 @@
 12. Yogga Aji Pratama menambahkan script html dan css
 13. Yogga Aji Pratama menambahkan script html dan css
 14. Yogga Aji Pratama menambahkan script html dan css
-15. Febby Adelia menambahkan link bootsrap
+15. Febby Adelia menambahkan link bootsrap page software
+16. Febby Adelia menambahkan judul konten page software
