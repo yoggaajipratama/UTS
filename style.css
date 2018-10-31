@@ -143,3 +143,14 @@ a{
 	border-color: white;
 	background-color: transparent;
 }
+
+.box:hover{
+	margin: 30px;
+	color: #cece;
+	border: solid;
+	border-radius: 30px;
+	margin-left: 10px;
+	border: inherit white;
+	border-color: white;
+	background-color: #cecece;
+}

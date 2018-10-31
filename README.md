@@ -26,4 +26,4 @@
 24. Aldo Octaviandry menambahkan konten page pada hardware
 25. Aldo Octaviandry menambahkan gambar
 26. Aldo Octaviandry menambahkan navbar pada halaman hardware
-27. 22. Yogga Aji Pratama  menambah dan mengubah index.html dan css
+27. Yogga Aji Pratama  menambah dan mengubah index.html dan css
