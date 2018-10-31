@@ -28,6 +28,18 @@ h1, p{
 	width: 100%;
 }
 
+.background2{
+	background-attachment: fixed;
+	background-image: url("images/background.jpg");
+	background-color: #808080;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 50px;
+	height: auto;
+	scroll-behavior: smooth;
+	width: 100%;
+}
+
 a{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: white;
