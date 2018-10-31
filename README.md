@@ -43,3 +43,4 @@
 41. Aldo Octaviandry mengubah warna huruf
 42. Yogga Aji Pratama mengubah warna huruf
 43. Febby Adelia menambahkan navbar page software
+44. Febby Adelia menambahkan footer html dan css

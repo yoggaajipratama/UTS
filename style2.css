@@ -18,3 +18,14 @@ h2,p{
 	font-family:cursive;
 	color:white;
 }
+#footer{
+  width: 100%;
+  height: 50px;
+  margin-top: 250px;
+  background-color: #49494e;
+  color: white;
+  font-size: 12pt;
+  text-align: center;
+  position: relative;
+  clear: both;
+}
