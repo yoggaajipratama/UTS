@@ -28,3 +28,4 @@
 26. Aldo Octaviandry menambahkan navbar pada halaman hardware
 27. Yogga Aji Pratama  menambah dan mengubah index.html dan css
 28. Febby Adelia mengubah isi konten page software
+29. Febby Adelia menambahkan css isi konten
