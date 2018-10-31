@@ -30,3 +30,4 @@
 28. Febby Adelia mengubah isi konten page software
 29. Febby Adelia menambahkan css isi konten
 30. Febby Adelia menambahkan css gambar dan judul
+31. Aldo Octaviandry mengubah gambar pada halaman hardware
