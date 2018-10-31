@@ -8,42 +8,52 @@ body{
 	scroll-behavior: smooth;
 }
 
+.text-center{
+	color: white;
+}
+
+h1, p{
+	color: white;
+}
+
 .background{
-	/*background-image: url("images/laptop.jpg");*/
+	background-attachment: fixed;
+	background-image: url("images/poly2.jpg");
 	background-color: #808080;
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
-	height: 590px;
+	height: 890px;
 	width: 100%;
 }
 
-/*.navbarhtml{
-	margin-top: -50px;
-	color: black;
-}*/
+a{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
 
 #navbarhtml{
-	background-color: black;
+	background-color: transparent;
+	filter: blu
 	width: 100%;
 	top: 0;
+	word-spacing: 20px;
 	padding-top: 9px;
-	padding-right: 40px;
+	padding-right: 80px;
 	position: fixed;
 	scroll-behavior: smooth;
 	overflow: hidden;
-	height: 70px;
+	height: 40px;
 	text-align: right;
 	z-index: 1;
+	boder: solid;
 }
 
 .judul{
-	background-color: #808080;
-	border: solid black;
+	background-color: transparent;
 	width: 55%;
 	padding: auto;
 	margin: auto;
-	box-shadow: 3px 5px black;
 	margin-top: 40px;
 	color: white;
 	font-weight: bold;
@@ -51,12 +61,13 @@ body{
 
 #container{
 	width:680px;
-	margin:40px auto;
+	margin:40px 110px;
 	overflow:hidden;
 }
 
 #slider{
-	width:680px;
+	margin-top: 60px;
+	width:580px;
 	height:350px;
 	position:relative;
 	overflow:hidden;
@@ -67,7 +78,7 @@ body{
 
 #slider img{
 	border-radius:30px;
-	width:680px;
+	width:580px;
 	height:350px;
 }
 
@@ -78,7 +89,7 @@ body{
 
 #prev, #next{
 	float:left;
-	margin-top:130px;
+	margin-top:230px;
 	cursor:pointer;
 	position:relative;
 }
@@ -95,11 +106,10 @@ body{
 	margin-left:-43px;
 }
 
-#about{
-	padding-top: 350px;
-	padding-left: 800px;
+.sekilas{
+	margin-top: 30px;
+	margin-left: 150px;
 }
-
 .img{
 	width: 320px;
 	height: 320px;
@@ -109,4 +119,14 @@ body{
 
 .text{
 	margin-right: 30px;
+}
+
+.box{
+	margin: 30px;
+	color: #cece;
+	border-style: dotted;
+	margin-left: 10px;
+	border: inherit white;
+	border-color: white;
+	background-color: transparent;
 }

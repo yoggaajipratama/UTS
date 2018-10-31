@@ -20,3 +20,4 @@
 18. Febby Adelia menambahkan isi konten page software
 19. Febby Adelia menambahkan isi konten page software
 20. Febby Adelia mengubah typo di title dan memindahkan link ke dalam head
+21. Yogga Aji Pratama Mengubah isi dan tampilan index.html,css.
