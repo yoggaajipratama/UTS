@@ -39,3 +39,4 @@
 37. Aldo Octaviandry menambahkan background di halaman hardware
 38. Aldo Octaviandry menambah class background3 di css
 39. Aldo Octaviandry menambahkan home pada navbar
+40. Aldo Octaviandry mengubah warna huruf

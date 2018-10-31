@@ -16,6 +16,10 @@ h1, p{
 	color: white;
 }
 
+.pp{
+	color: black;
+}
+
 .background{
 	background-attachment: fixed;
 	background-image: url("images/poly2.jpg");
