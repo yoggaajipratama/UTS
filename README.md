@@ -35,3 +35,4 @@
 33. Yogga Aji Pratama  menambah about di index.html+css
 34. Aldo Octaviandry menambah konten hardware
 35. Aldo Octaviandry memasukan class read-more pada konten
+36. Yogga Aji Pratama  mengubah di index.html+css
