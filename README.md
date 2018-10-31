@@ -22,3 +22,4 @@
 20. Febby Adelia mengubah typo di title dan memindahkan link ke dalam head
 21. Yogga Aji Pratama  menambah dan mengubah isi dan tampilan index.html,css.
 22. Yogga Aji Pratama  menambah dan mengubah isi dan tampilan index.html,css.
+23. Aldo Octaviandry menambahkan link bootstrap dan judul page hardware
