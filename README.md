@@ -37,7 +37,9 @@
 35. Aldo Octaviandry memasukan class read-more pada konten
 36. Yogga Aji Pratama  mengubah di index.html+css
 37. Aldo Octaviandry menambahkan background di halaman hardware
-38. Aldo Octaviandry menambah class background3 di css
-39. Aldo Octaviandry menambahkan home pada navbar
-40. Aldo Octaviandry mengubah warna huruf
-41. Yogga Aji Pratama mengubah warna huruf
+38. Febby Adelia mengubah seluruh isi css
+39. Aldo Octaviandry menambah class background3 di css
+40. Aldo Octaviandry menambahkan home pada navbar
+41. Aldo Octaviandry mengubah warna huruf
+42. Yogga Aji Pratama mengubah warna huruf
+43. Febby Adelia menambahkan navbar page software
