@@ -48,6 +48,7 @@ html {
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: transparent;
+  scroll-behavior: smooth;
 }
 
 @-ms-viewport {
@@ -66,6 +67,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
+  scroll-behavior: smooth;
   background-color: #fff;
 }
 
