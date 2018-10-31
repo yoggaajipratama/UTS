@@ -32,3 +32,4 @@
 30. Febby Adelia menambahkan css gambar dan judul
 31. Aldo Octaviandry mengubah gambar pada halaman hardware
 32. Aldo Octaviandry menambah search pada navbar hardware
+33. Yogga Aji Pratama  menambah about di index.html+css

@@ -24,6 +24,7 @@ h1, p{
 	background-size: cover;
 	padding-top: 50px;
 	height: auto;
+	scroll-behavior: smooth;
 	width: 100%;
 }
 
@@ -153,4 +154,19 @@ a{
 	border: inherit white;
 	border-color: white;
 	background-color: #cecece;
+}
+
+.profil{
+	width: 320px;
+	height: 320px;
+	border-radius: 50%;
+}
+
+.p2{
+	margin-left: 80px;
+}
+
+#about{
+	margin-top: 250px;
+	scroll-behavior: smooth;
 }
