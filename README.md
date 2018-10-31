@@ -34,3 +34,4 @@
 32. Aldo Octaviandry menambah search pada navbar hardware
 33. Yogga Aji Pratama  menambah about di index.html+css
 34. Aldo Octaviandry menambah konten hardware
+35. Aldo Octaviandry memasukan class read-more pada konten
