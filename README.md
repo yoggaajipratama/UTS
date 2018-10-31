@@ -25,3 +25,4 @@
 23. Aldo Octaviandry menambahkan link bootstrap dan judul page hardware
 24. Aldo Octaviandry menambahkan konten page pada hardware
 25. Aldo Octaviandry menambahkan gambar
+26. Aldo Octaviandry menambahkan navbar pada halaman hardware
