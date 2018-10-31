@@ -36,3 +36,6 @@
 34. Aldo Octaviandry menambah konten hardware
 35. Aldo Octaviandry memasukan class read-more pada konten
 36. Yogga Aji Pratama  mengubah di index.html+css
+37. Aldo Octaviandry menambahkan background di halaman hardware
+38. Aldo Octaviandry menambah class background3 di css
+39. Aldo Octaviandry menambahkan home pada navbar
