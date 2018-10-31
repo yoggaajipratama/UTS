@@ -29,3 +29,4 @@
 27. Yogga Aji Pratama  menambah dan mengubah index.html dan css
 28. Febby Adelia mengubah isi konten page software
 29. Febby Adelia menambahkan css isi konten
+30. Febby Adelia menambahkan css gambar dan judul

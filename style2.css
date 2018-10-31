@@ -14,3 +14,27 @@
 	background-color : #bc9d64;
 	margin-bottom : 5px;
 }
+/* pengaturan gambar */
+#gambardepan {
+	padding : 1px;
+	width : 150%;
+	height : 140px;
+	border : 1px solid #dddddd;
+	float : left;
+	margin-right : 5px;
+	margin-top : 5px;
+}
+/* pengaturan judul */
+#isikonten h2 {
+	font-size : 20px;
+	font-weight : bold;
+	color : #ffffff;
+	margin-top : 4px;
+	margin-bottom : 3px;
+}
+.isikonten a {
+	text-decoration : none;
+}
+.isikonten a:hover {
+	color : yellow;
+}
