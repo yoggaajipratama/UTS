@@ -23,7 +23,7 @@ h1, p{
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
-	height: 890px;
+	height: auto;
 	width: 100%;
 }
 
@@ -34,7 +34,6 @@ a{
 
 #navbarhtml{
 	background-color: transparent;
-	filter: blu
 	width: 100%;
 	top: 0;
 	word-spacing: 20px;
@@ -74,12 +73,14 @@ a{
 	float:left;
 	padding:3px;
 	border-radius:30px;
+	margin-bottom: 40px;
 }
 
 #slider img{
 	border-radius:30px;
 	width:580px;
 	height:350px;
+	margin-bottom: 40px;
 }
 
 .slide{
@@ -106,10 +107,21 @@ a{
 	margin-left:-43px;
 }
 
-.sekilas{
-	margin-top: 30px;
-	margin-left: 150px;
+.isi-box{
+	width: 250px;
 }
+.read-more{
+	color: blue;
+}
+
+.title{
+	margin-left: 440px;
+}
+
+.text{
+	padding-left: 40px;
+}
+
 .img{
 	width: 320px;
 	height: 320px;
@@ -124,7 +136,9 @@ a{
 .box{
 	margin: 30px;
 	color: #cece;
-	border-style: dotted;
+	border: solid;
+	border-radius: 30px;
+	border: initial;
 	margin-left: 10px;
 	border: inherit white;
 	border-color: white;
