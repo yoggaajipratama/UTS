@@ -40,3 +40,4 @@
 38. Aldo Octaviandry menambah class background3 di css
 39. Aldo Octaviandry menambahkan home pada navbar
 40. Aldo Octaviandry mengubah warna huruf
+41. Yogga Aji Pratama mengubah warna huruf
