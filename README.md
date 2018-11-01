@@ -49,4 +49,5 @@
 47. Aldo Octaviandry mengubah navbar hardware
 48. Yogga Aji Pratama mengubah dan menambahkan index.html
 49. Yogga Aji Pratama menambah jquery readmore pada index.html
-49. Yogga Aji Pratama menambah jquery readmore pada software.html
+50. Yogga Aji Pratama menambah jquery readmore pada software.html
+51. Yogga Aji Pratama menambah jquery readmore pada hardware.html
