@@ -161,6 +161,10 @@ a{
 	background-color: transparent;
 }
 
+.a1{
+	color: #cecece;
+}
+
 .box:hover{
 	margin: 30px;
 	color: #cece;

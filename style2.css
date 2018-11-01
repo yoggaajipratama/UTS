@@ -20,7 +20,8 @@ h2,p{
 #footer{
   width: 100%;
   height: 40px;
-  margin-top: 650px;
+  margin-top: 250px;
+  margin-bottom: -10px;
   background-color: transparent;
   color: white;
   font-size: 12pt;
