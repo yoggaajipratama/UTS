@@ -200,3 +200,12 @@ a{
 .read{
 	color: blue;
 }
+
+@media screen and (max-width: 780px) {
+	
+	body{
+		width: auto;
+		float: none;
+	}
+
+}
