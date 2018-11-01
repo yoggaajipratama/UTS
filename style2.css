@@ -5,27 +5,56 @@
 }
 .background2{
   background-attachment: fixed;
-  background-image: url("images/poly2.jpg");
+  background-image: url("images/background4.jpeg");
   background-color: #808080;
   background-attachment: fixed;
   background-size: cover;
   padding-top: 50px;
-  height: 890px;
+  height: 990px;
   scroll-behavior: smooth;
   width: 100%;
 }
 h2,p{
-	font-family:cursive;
-	color:white;
+  font-family:cursive;
+  color:white;
 }
 #footer{
   width: 100%;
-  height: 50px;
+  height: 40px;
   margin-top: 250px;
-  background-color: #49494e;
+  background-color: transparent;
   color: white;
   font-size: 12pt;
   text-align: center;
   position: relative;
   clear: both;
+}
+
+#isi{
+  padding-left: 180px;
+  padding-top: 60px;
+  width: 850px;
+}
+
+.space{
+  padding-right: 40px;
+}
+
+.jdl{
+  font-weight: bold;
+  color: #cecece;
+}
+
+.read-more1{
+  color: red;
+}
+
+.nav-link2{
+  color: white;
+  border: solid;
+  border-radius: 30px;
+}
+
+.nav-link2:hover{
+  color: red;
 }
