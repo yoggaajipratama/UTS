@@ -8,6 +8,17 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="js/script.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-expander/1.7.0/jquery.expander.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+		    $(".readmore").expander({
+		          slicePoint : 100,
+		          expandText: 'read more',
+		          userCollapseText : 'Less'
+		    });
+		}); 
+	</script>
 </head>
 <body>
 	<div class="background">
@@ -68,7 +79,7 @@
 		<div class="container">
 			<table>
 				<tr>
-					<th class="text"><h1>Notepad</h1></th>
+					<th class="text"><h1>Notepad++</h1></th>
 					<th class="text"><h1>Sublime</h1></th>
 					<th class="text"><h1>Xampp</h1></th>
 					<th class="text"><h1>Mozilla Firefox</h1></th>
@@ -76,22 +87,30 @@
 				<tr>
 					<td class="text">
 						<div class="isi-box">
-							<p>Notepad adalah sebuah text editor simple yang sudah ada sejak Windows 1.0 di sekitar tahun 1985, fungsi notepad dari dulu sampai sekarang dianggap masih sama saja yaitu untuk menulis pesan pendek ( bukan SMS ) notepad juga bisa menyimpan dan...<a href="software.html" class="read-more">Read more</a></p>
+							<div class="readmore">
+								<p>Notepad++ adalah sebuah penyunting teks dan penyunting kode sumber yang berjalan di sistem operasi Windows. Notepad++ menggunakan komponen Scintilla untuk dapat menampilkan dan menyuntingan teks dan berkas kode sumber berbagai bahasa pemrograman. Notepad++ didistribusikan sebagai perangkat lunak bebas.</p>
+							</div>
 						</div>
 					</td>
 					<td class="text">
 						<div class="isi-box">
-							<p>Sublime Text adalah editor kode sumber lintas platform yang eksklusif dengan antarmuka pemrograman aplikasi Python...<a href="software.html" class="read-more">Read more</a></p>
+							<div class="readmore">
+								<p>Sublime Text adalah aplikasi editor untuk kode dan teks  yang dapat berjalan diberbagai platform operating system dengan menggunakan teknologi Phyton API. Terciptanya  aplikasi  ini  terinspirasi  dari  aplikasi  Vim,  Aplikasi  ini  sangatlah fleksibel  dan  powerfull.  Fungsionalitas  dari  aplikasi  ini  dapat  dikembangkan dengan  menggunakan  sublime-packages.  Sublime  Text  bukanlah  aplikasi  opensource  dan juga aplikasi yang dapat digunakan dan didapatkan secara gratis,  akan tetapi  beberapa  fitur  pengembangan  fungsionalitas  (packages)  dari  aplikasi  ini merupakan hasil dari temuan dan  mendapat dukungan  penuh dari  komunitas serta memiliki linsensi aplikasi gratis.</p>
+							</div>
 						</div>
 					</td>
 					<td class="text">
 						<div class="isi-box">
-							<p>XAMPP adalah perangkat lunak bebas, yang mendukung banyak sistem operasi, merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MySQL database, dan...<a href="software.html" class="read-more">Read more</a></p>
+							<div class="readmore">
+								<p>XAMPP adalah software aplikasi pengembang yang digunakan untuk pengembangan website berbasis PHP dan juga sebagai server untuk local dalam pembuatan database dengan MySql. Berikut ini akan dijelaskan apa itu XAMPP, fungsinya dan cara menginstal dan menggunakan XAMPP. Software aplikasi ini di buat dan dikembangkan oleh Apache Friends. Sampai saat artikel ini dibuat, XAMPP telah merilis versinya sampai dengan 1.8.3.0 XAMPP memiliki kelebihan untuk bisa berperan sebagai server web Apache dalam melakukan simulasi pengembangan web. Tool pengembangan web ini mendukung teknologi web populer seperti PHP, MySql dan Perl. Melalui XAMPP ini para web developer dapat menguji aplikasi web yang dikembangkan dan mempresentasikan secara langsung kepada orang lain tentang web yang dibangun pada komputer tanpa memerlukan koneksi internet, istilahnya membuka web secara offline.</p>
+							</div>
 						</div>
 					</td>
 					<td class="text">
 						<div class="isi-box">
-							<p>Mozilla Firefox adalah peramban web lintas platform bebas dan sumber terbuka yang dikembangkan oleh Yayasan Mozilla dan ratusan sukarelawan. Sebelum rilis versi 1.0-nya pada 9 November 2004, Firefox telah mendapatkan...<a href="software.html" class="read-more">Read more</a></p>
+							<div class="readmore">
+								<p>Mozilla Firefox (aslinya bernama Phoenix dan kemudian untuk sesaat dikenal sebagai Mozilla Firebird) adalah peramban web lintas platform bebas dan sumber terbuka yang dikembangkan oleh Yayasan Mozilla dan ratusan sukarelawan. Sebelum rilis versi 1.0-nya pada 9 November 2004, Firefox telah mendapatkan sambutan yang sangat bagus dari pihak media, termasuk dari Forbes dan Wall Street Journal. Dengan lebih dari 5 juta download dalam 12 hari pertama rilisnya dan 6 juta hingga 24 November 2004, Firefox 1.0 adalah salah satu perangkat lunak bebas, sumber terbuka (open-source) yang paling banyak digunakan di antara pengguna rumahan. Melalui Firefox, Yayasan Mozilla betujuan untuk mengembangkan sebuah peramban web yang kecil, cepat, sederhana, dan sangat bisa dikembangkan (terpisah dari Mozilla Suite yang lebih besar). Sejak 3 April 2003, Firefox dan klien surel Thunderbird telah menjadi fokus utama pengembang Yayasan Mozilla untuk menggantikan Mozilla Suite. Firefox dapat dijalankan pada berbagai macam sistem operasi seperti Microsoft Windows, Linux, Mac OS X, dan FreeBSD. Versi stabil dan terbaru Firefox saat ini adalah 62.0, yang dirilis pada 5 September 2018.</p>
+							</div>
 						</div>
 					</td>
 				</tr>

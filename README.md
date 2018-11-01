@@ -48,3 +48,4 @@
 46. Febby Adelia mengubah tampilan software.html
 47. Aldo Octaviandry mengubah navbar hardware
 48. Yogga Aji Pratama mengubah dan menambahkan index.html
+49. Yogga Aji Pratama menambah jquery readmore pada index.html
