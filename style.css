@@ -39,7 +39,7 @@ h1, p{
 	background-attachment: fixed;
 	background-size: cover;
 	padding-top: 50px;
-	height: auto;
+	height: 200%;
 	scroll-behavior: smooth;
 	width: 100%;
 }
@@ -183,6 +183,13 @@ a{
 }
 
 #about{
-	margin-top: 250px;
+	padding-top: 250px;
 	scroll-behavior: smooth;
+	padding-left: 400px;
+	padding-bottom: 100px;
+}
+
+.tengah{
+	padding-top: 70px;
+	padding-bottom: 10px;
 }
