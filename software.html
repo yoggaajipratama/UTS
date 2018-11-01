@@ -5,6 +5,16 @@
   <link rel="stylesheet" type="text/css" media="all" href="style2.css">
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link rel="stylesheet" href="css/style2.css" type="text/css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-expander/1.7.0/jquery.expander.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+        $(".readmore").expander({
+              slicePoint : 100,
+              expandText: 'read more',
+              userCollapseText : 'Less'
+        });
+    }); 
+  </script>
 </head>
 
 <body>
@@ -43,7 +53,9 @@
             <td>
               <h3 class="jdl">APLIKASI SUBLIME</h3>
               <p>Review tentang aplikasi sublime</p>
-              <p>Sublime Text adalah editor kode sumber lintas platform yang eksklusif dengan antarmuka pemrograman aplikasi Python...<a href="software.html" class="read-more1">Read more</a></p>
+              <div class="readmore">
+                <p>Sublime Text adalah aplikasi editor untuk kode dan teks  yang dapat berjalan diberbagai platform operating system dengan menggunakan teknologi Phyton API. Terciptanya  aplikasi  ini  terinspirasi  dari  aplikasi  Vim,  Aplikasi  ini  sangatlah fleksibel  dan  powerfull.  Fungsionalitas  dari  aplikasi  ini  dapat  dikembangkan dengan  menggunakan  sublime-packages.  Sublime  Text  bukanlah  aplikasi  opensource  dan juga aplikasi yang dapat digunakan dan didapatkan secara gratis,  akan tetapi  beberapa  fitur  pengembangan  fungsionalitas  (packages)  dari  aplikasi  ini merupakan hasil dari temuan dan  mendapat dukungan  penuh dari  komunitas serta memiliki linsensi aplikasi gratis.</p>
+              </div>
             </td>
         </tr>
 
@@ -54,7 +66,9 @@
             <td>
               <h3 class="jdl">APLIKASI XAMPP</h3>
               <p>Review tentang aplikasi xampp</p>
-              <p>XAMPP adalah perangkat lunak bebas, yang mendukung banyak sistem operasi, merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri, yang terdiri atas program Apache HTTP Server, MySQL database, dan...<a href="software.html" class="read-more1">Read more</a></p>
+              <div class="readmore">
+                <p>XAMPP adalah software aplikasi pengembang yang digunakan untuk pengembangan website berbasis PHP dan juga sebagai server untuk local dalam pembuatan database dengan MySql. Berikut ini akan dijelaskan apa itu XAMPP, fungsinya dan cara menginstal dan menggunakan XAMPP. Software aplikasi ini di buat dan dikembangkan oleh Apache Friends. Sampai saat artikel ini dibuat, XAMPP telah merilis versinya sampai dengan 1.8.3.0 XAMPP memiliki kelebihan untuk bisa berperan sebagai server web Apache dalam melakukan simulasi pengembangan web. Tool pengembangan web ini mendukung teknologi web populer seperti PHP, MySql dan Perl. Melalui XAMPP ini para web developer dapat menguji aplikasi web yang dikembangkan dan mempresentasikan secara langsung kepada orang lain tentang web yang dibangun pada komputer tanpa memerlukan koneksi internet, istilahnya membuka web secara offline.</p>
+              </div>
             </td>
         </tr>
 
@@ -65,7 +79,9 @@
           <td>
             <h3 class="jdl">APLIKASI NOTEPAD++</h3>
             <p>Review tentang aplikasi notepad</p>
-            <p>Notepad++ adalah sebuah penyunting teks dan penyunting kode sumber yang berjalan di sistem operasi Windows. Notepad++ menggunakan komponen Scintilla untuk dapat menampilkan...<a href="software.html" class="read-more1">Read more</a></p>
+            <div class="readmore">
+                <p>Notepad++ adalah sebuah penyunting teks dan penyunting kode sumber yang berjalan di sistem operasi Windows. Notepad++ menggunakan komponen Scintilla untuk dapat menampilkan dan menyuntingan teks dan berkas kode sumber berbagai bahasa pemrograman. Notepad++ didistribusikan sebagai perangkat lunak bebas.</p>
+            </div>
           </td>
         </tr>
     </table>
