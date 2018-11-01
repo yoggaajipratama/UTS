@@ -45,3 +45,4 @@
 43. Febby Adelia menambahkan navbar page software
 44. Febby Adelia menambahkan footer html dan css
 45. Yogga Aji Pratama mengubah dan menambahkan css
+46. Febby Adelia mengubah tampilan software.html
