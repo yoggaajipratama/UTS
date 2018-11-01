@@ -158,11 +158,11 @@ a{
 	margin-left: 10px;
 	border: inherit white;
 	border-color: white;
-	background-color: #cecece;
+	background-color: transparent;
 }
 
 .a1{
-	color: #000000;
+	color: #ffffff;
 }
 
 .box:hover{
