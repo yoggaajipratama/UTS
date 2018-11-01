@@ -7,10 +7,9 @@
   background-attachment: fixed;
   background-image: url("images/background4.jpeg");
   background-color: #808080;
-  background-attachment: fixed;
   background-size: cover;
   padding-top: 50px;
-  height: 990px;
+  height: 1990px;
   scroll-behavior: smooth;
   width: 100%;
 }
