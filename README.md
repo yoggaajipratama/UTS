@@ -1,4 +1,11 @@
+# Fourth Repository
 # UTS
+
+Repository ini berisikan konten web yang ditujukan pemenuhan tugas UTS.
+
+![Foto](uts1.png)
+![Foto](uts2.png)
+![Foto](uts3.png)
 
 1. Yogga Aji Pratama menambahkan bootstrap & memberikan background dengan style css
 2. Yogga Aji Pratama menambahkan navbar pada web dan css
